@@ -39,3 +39,34 @@ ___Python is a programming Language___
 ## Offline image
 
 <img src="https://raw.githubusercontent.com/anilpolineni/Markdown_syntax/main/JAI%20HANUMAN%20.jpg">
+
+
+## Bullet Points
+
+### Languages
+
++ C
+  + Introduction To C
+    + Dennis Riche
+  + Files
+  + Pointers
+
+* Python
+  - Introduction To Python
+  - hostory of python
+
+- Java
+  + Core Java
+  + Advanced Java
+
+
+## Table
+
+| S.no | Languages |Inventors|
+|------|-----------|---------|
+| 1    | Python    |GuidovanRossum|
+| 2     | Java      | James Gosling|
+
+# Link
+
+[PaceCollege](http://pace.ac.in/)
